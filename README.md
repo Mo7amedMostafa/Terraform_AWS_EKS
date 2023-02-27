@@ -17,7 +17,7 @@ sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinu
 sudo yum -y install terraform
 ```
 
-Build EKS Cluster
+Build AWS EKS Cluster
 
 ```bash
 terraform init
